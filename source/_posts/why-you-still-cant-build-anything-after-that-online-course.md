@@ -1,5 +1,6 @@
 ---
 title: Why you still can't build anything after that online course
+author: Chris Fritz
 ---
 
 Here's a story I've heard at least a hundred times:
