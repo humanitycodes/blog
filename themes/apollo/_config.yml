@@ -1,0 +1,13 @@
+# Header
+menu:
+  Code Lab Home: https://lansingcodelab.com
+  Blog Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
